@@ -25,3 +25,10 @@ $  git clone https://github.com/JuanM4T/osu-monthly-toppplays
 - thats about it
 
   
+  
+  
+  
+  
+  
+  
+  first thing i make dont blame me
