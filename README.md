@@ -19,6 +19,12 @@ Then, clone the repository.
 $  git clone https://github.com/JuanM4T/osu-monthly-toppplays
 ```
 
+Finally, run main.py
+
+```bash
+$  python main.py
+```
+
 ## Features
 
 - Get the highest pp plays of the month.
