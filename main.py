@@ -1,8 +1,10 @@
 from configparser import ConfigParser
 import time
 config = ConfigParser()
-open('config.ini', 'w').write("")
-if open('config.ini' , 'r').read(1) == "":
+try:   
+    open('config.ini' , 'r')
+except: 
+    open('config.ini', 'w').write("")
     config.read('config.ini')
     config.add_section('api')
     config.add_section('method')
